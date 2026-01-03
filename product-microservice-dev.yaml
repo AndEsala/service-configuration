@@ -4,3 +4,6 @@ booking:
 spring:
   mongodb:
     uri: mongodb://localhost:27017/productdb
+
+app:
+  testProp: Property from application.yaml
