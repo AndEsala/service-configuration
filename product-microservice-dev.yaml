@@ -1,2 +1,6 @@
 booking:
   property: Product Profile Dev
+
+spring:
+  mongodb:
+    uri: mongodb://localhost:27017/productdb
