@@ -1,4 +1,4 @@
 booking:
   property: Product Profile Dev
 app:
-  testProp: Property from product-microservice-dev.yaml updated for Bus and Message Broker
+  testProp: Reading properties from product-microservice-dev.yaml, vault and updated from Message Broker
